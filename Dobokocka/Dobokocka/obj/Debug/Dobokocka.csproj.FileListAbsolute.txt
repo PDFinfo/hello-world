@@ -1,0 +1,9 @@
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\bin\Debug\Dobokocka.exe.config
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\bin\Debug\Dobokocka.exe
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\bin\Debug\Dobokocka.pdb
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\obj\Debug\Dobokocka.csprojResolveAssemblyReference.cache
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\obj\Debug\Dobokocka.Form1.resources
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\obj\Debug\Dobokocka.Properties.Resources.resources
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\obj\Debug\Dobokocka.csproj.GenerateResource.Cache
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\obj\Debug\Dobokocka.exe
+C:\Peter\Visual Studio 2013\Projects\Visual C# - projects\Dobokocka\Dobokocka\obj\Debug\Dobokocka.pdb
